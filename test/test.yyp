@@ -183,11 +183,11 @@
             }
         },
         {
-            "Key": "f3b27cdd-0c15-4734-aea5-65898ab0db61",
+            "Key": "dd01a6ad-531e-42fb-9604-2e8cad3f0d30",
             "Value": {
-                "id": "783a5961-cb13-46fa-bc01-7b510a0e852d",
-                "resourcePath": "objects\\honey\\honey.yy",
-                "resourceType": "GMObject"
+                "id": "c93efbd2-4238-41d8-93ad-d9a159741100",
+                "resourcePath": "sprites\\sprite0\\sprite0.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
